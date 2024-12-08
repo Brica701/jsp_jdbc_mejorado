@@ -14,12 +14,8 @@
 <br>
 <a href="formularioSocio.jsp">Fomulario de Socio Nuevo</a>
 <br>
-<a href="pideNumeroSocio.jsp">Pide de Socios</a>
-
-<form action="detalleSocio.jsp">
-    Cargar socio con ID:
-    <input type="text" name="socioID">
-    <input type="submit" value="Enviar">
-</form>
+<a href="pideNumeroSocio.jsp">Listado de Socios</a>
+<br>
+<a href="entrenamiento/listadoEntrenamiento.jsp">Entrenamientos</a>
 </body>
 </html>
